@@ -26,7 +26,9 @@
 6. Realizar el push al nuevo remoto
 ![Captura de pantalla 2025-11-11 a las 13.46.10.png](imagenes/Captura%20de%20pantalla%202025-11-11%20a%20las%2013.46.10.png)
 
+7. Verificacion
 
+![Captura de pantalla 2025-11-11 a las 13.46.45.png](imagenes/Captura%20de%20pantalla%202025-11-11%20a%20las%2013.46.45.png)
 
 
 
